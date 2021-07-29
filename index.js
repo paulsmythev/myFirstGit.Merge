@@ -2,3 +2,5 @@
 var adding = (x, y) => {return x + y};
 
 console.log("I caused a merge conflict " + adding(5, 10));
+
+// teest
